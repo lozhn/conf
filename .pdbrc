@@ -1,0 +1,1 @@
+alias imgcat from imgcat import imgcat; imgcat(%1)
